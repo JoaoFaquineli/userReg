@@ -1,0 +1,8 @@
+This application has no front-end
+To register a new User use the postman with the following body, for exemple:
+
+{
+    "name":"John",
+    "email":"John@hotmail.com",
+    "password":"0dasdsa5abc"
+}
